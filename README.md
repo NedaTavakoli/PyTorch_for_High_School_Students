@@ -9,16 +9,14 @@ This repository contains notebooks and resources to help high school students le
 2. **PyTorch and Simple Neural Networks**: A notebook that introduces PyTorch and walks through building and training a simple neural network.
 3. **Detailed Explanations**: A notebook with detailed explanations for each line of code in the PyTorch example, providing a deeper understanding of how neural networks and PyTorch work.
 
-## How to Use locally
+## How to Use
 
-Replace `your-username` and `your-repository` with your GitHub username and repository name. Replace `your-notebook.ipynb` with the actual notebook file name.
-
-### 1. Running Locally
+### Running Locally
 If you'd like to run these notebooks on your local machine, follow these steps:
 
 1. Clone this repository:
    ```bash
-   git clone https://github.com/your-username/your-repository.git
+   git clone https://github.com/NedaTavakoli/PyTorch_for_High_School_Students/tree/main.git
    ```
 2. Install the required libraries:
    ```bash
@@ -28,6 +26,9 @@ If you'd like to run these notebooks on your local machine, follow these steps:
    ```bash
    jupyter notebook
    ```
+
+### Running in Google Colab
+You can also run the notebooks on Google Colab. The links to open each notebook in Colab are provided inside the notebooks themselves. To use Google Colab, you will need a Gmail account.
 
 ## Topics Covered
 
