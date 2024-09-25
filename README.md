@@ -9,18 +9,11 @@ This repository contains notebooks and resources to help high school students le
 2. **PyTorch and Simple Neural Networks**: A notebook that introduces PyTorch and walks through building and training a simple neural network.
 3. **Detailed Explanations**: A notebook with detailed explanations for each line of code in the PyTorch example, providing a deeper understanding of how neural networks and PyTorch work.
 
-## How to Use
-
-### 1. Open in Google Colab
-To run these notebooks interactively in Google Colab, you can either upload them manually or add the following badge to your repository:
-
-```markdown
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/your-username/your-repository/blob/main/your-notebook.ipynb)
-```
+## How to Use locally
 
 Replace `your-username` and `your-repository` with your GitHub username and repository name. Replace `your-notebook.ipynb` with the actual notebook file name.
 
-### 2. Running Locally
+### 1. Running Locally
 If you'd like to run these notebooks on your local machine, follow these steps:
 
 1. Clone this repository:
